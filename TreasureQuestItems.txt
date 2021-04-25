@@ -1,0 +1,1215 @@
+The Real Ban Hammer,Developer,Weapon
+Wooden Sword But It's Really Really Big,Developer,Weapon
+Unseen Blade,Developer,Weapon
+Twilight Cannon,Developer,Weapon
+SenseiWarrior,Mythical,Helmet
+Nosniy,Mythical,Helmet
+Amethyst Blade,Common,Weapon
+Amethyst Trench,Common,Weapon
+Bamboo Staff,Common,Weapon
+Baseball Bat,Common,Weapon
+Blue Candy Cane Lollipop,Common,Weapon
+Blue Pool Noodle,Common,Weapon
+Blue Mushroom,Common,Weapon
+Blueberry Lollipop,Common,Weapon
+Brick,Common,Weapon
+Bo Staff,Common,Weapon
+Board,Common,Weapon
+Bunny Sai,Common,Weapon
+Cactus Ball,Common,Weapon
+Cactus Blade,Common,Weapon
+Cake Knife,Common,Weapon
+Candy Cane Lollipop,Common,Weapon
+Candy Corn Blade,Common,Weapon
+Candy Slicer,Common,Weapon
+Candy Whacker,Common,Weapon
+Claws,Common,Weapon
+Cleaver,Common,Weapon
+Club,Common,Weapon
+Cherry Lollipop,Common,Weapon
+Chocolate Axe,Common,Weapon
+Chocolate Lollipop,Common,Weapon
+Chocolate Scythe,Common,Weapon
+Cyber Slasher,Common,Weapon
+Coconut,Common,Weapon
+Crimson Blade,Common,Weapon
+Crimson Sword,Common,Weapon
+Crowbar,Common,Weapon
+Cutlass,Common,Weapon
+Dagger,Common,Weapon
+Dark Bat,Common,Weapon
+Dark Bo Staff,Common,Weapon
+Elder Blade,Common,Weapon
+Fish Spear,Common,Weapon
+Flashlight,Common,Weapon
+Frying Pan,Common,Weapon
+Gauntlet,Common,Weapon
+Ghostly Crowbar,Common,Weapon
+Ghostly Cutlass,Common,Weapon
+Ghostly Scythe,Common,Weapon
+Golden Hatchet,Common,Weapon
+Golden War Axe,Common,Weapon
+Grape Lollipop,Common,Weapon
+Green Mushroom,Common,Weapon
+Green Pool Noodle,Common,Weapon
+Hatchet,Common,Weapon
+Hockey Stick,Common,Weapon
+Holiday Cutlass,Common,Weapon
+Ice Claws,Common,Weapon
+Jade Blade,Common,Weapon
+Javelin,Common,Weapon
+Kama,Common,Weapon
+Khopesh,Common,Weapon
+Knife,Common,Weapon
+Kunai,Common,Weapon
+Longsword,Common,Weapon
+Menace,Common,Weapon
+Metal Pipe,Common,Weapon
+Metal Shovel,Common,Weapon
+Metal Sword,Common,Weapon
+Molten Sword,Common,Weapon
+Naginata,Common,Weapon
+Ninja Sai,Common,Weapon
+Orange Candy Cane Lollipop,Common,Weapon
+Orange Claws,Common,Weapon
+Orange Shovel,Common,Weapon
+Pickaxe,Common,Weapon
+Pillow,Common,Weapon
+Pink Mushroom,Common,Weapon
+Pirate Cutlass,Common,Weapon
+Pirate Hook,Common,Weapon
+Plague,Common,Weapon
+Plank,Common,Weapon
+Plastic Axe,Common,Weapon
+Plastic Bat,Common,Weapon
+Plastic Sword,Common,Weapon
+Plunger,Common,Weapon
+Poker,Common,Weapon
+Pounder,Common,Weapon
+Ragnarok,Common,Weapon
+Raspberry Spear,Common,Weapon
+Red Shovel,Common,Weapon
+Red Pool Noodle,Common,Weapon
+Regal Blade,Common,Weapon
+Regal Sword,Common,Weapon
+Rolling Pin,Common,Weapon
+Ruby Blade,Common,Weapon
+Sai,Common,Weapon
+Sapphire Blade,Common,Weapon
+Shadow Dagger,Common,Weapon
+Sickle,Common,Weapon
+Sinister Sickle,Common,Weapon
+Slasher,Common,Weapon
+Sludge,Common,Weapon
+Smacker,Common,Weapon
+Snow Samurai,Common,Weapon
+Spartan Sword,Common,Weapon
+Spike Mace,Common,Weapon
+Spiked Club,Common,Weapon
+Steel Bat,Common,Weapon
+Stick,Common,Weapon
+Stone Scythe,Common,Weapon
+Stone Spiky Club,Common,Weapon
+Super Spiky Club,Common,Weapon
+Thwomper,Common,Weapon
+Trench Mace,Common,Weapon
+Trench Staff,Common,Weapon
+Trident,Common,Weapon
+Velvet Sword,Common,Weapon
+Water Edge,Common,Weapon
+War Axe,Common,Weapon
+Wooden Chair,Common,Weapon
+Wooden Scythe,Common,Weapon
+Wooden Sword,Common,Weapon
+Yellow Shovel,Common,Weapon
+Ghostly Sword,Common,Weapon
+Hallow Dagger,Common,Weapon
+Red Claws,Common,Weapon
+Soul Axe,Common,Weapon
+Blue Steel Sword,Common,Weapon
+Slicer,Common,Weapon
+Red Candy Stabber,Common,Weapon
+Blue Candy Stabber,Common,Weapon
+Super Elf Stabber,Common,Weapon
+Sick Sword,Common,Weapon
+Dark Slasher,Common,Weapon
+Navy Axe,Common,Weapon
+Simple Sword,Common,Weapon
+Stake,Common,Weapon
+Carrot Slicer,Common,Weapon
+Amethyst Shard,Common,Weapon
+Apple,Common,Weapon
+Anchor,Common,Weapon
+Aqua Staff,Common,Weapon
+Battle Horn,Common,Weapon
+Bone,Common,Weapon
+Broomstick,Common,Weapon
+Candle,Common,Weapon
+Candy,Common,Weapon
+Candy Bucket,Common,Weapon
+Candy Cane,Common,Weapon
+Cane,Common,Weapon
+Carrot,Common,Weapon
+Caster,Common,Weapon
+Cherry Cake,Common,Weapon
+Chocolate Bar,Common,Weapon
+Coal,Common,Weapon
+Cotton Candy,Common,Weapon
+Cookie,Common,Weapon
+Crimson Enchanter,Common,Weapon
+Crystal Ball,Common,Weapon
+Cyber Book,Common,Weapon
+Cyber Caster,Common,Weapon
+Cyber Wand,Common,Weapon
+Diamond,Common,Weapon
+Doomsday Ball,Common,Weapon
+Dual Scroll,Common,Weapon
+Egg Caster,Common,Weapon
+Elder Staff,Common,Weapon
+Emerald,Common,Weapon
+Galaxy Orb,Common,Weapon
+Gamma Shard,Common,Weapon
+Gemstone,Common,Weapon
+Ghostly Staff,Common,Weapon
+Goblet,Common,Weapon
+Grass Book,Common,Weapon
+Gummy Bear Wand,Common,Weapon
+Hallow Candle,Common,Weapon
+Horseshoe,Common,Weapon
+Hot Chocolate,Common,Weapon
+Ice Pick Caster,Common,Weapon
+Jade Staff,Common,Weapon
+Magic Snowglobe,Common,Weapon
+Magician,Common,Weapon
+Molten Caster,Common,Weapon
+Ninja Potion,Common,Weapon
+Love Note,Common,Weapon
+Present,Common,Weapon
+Royal Scroll,Common,Weapon
+Ruby Shard,Common,Weapon
+Scroll,Common,Weapon
+Shadow Orb,Common,Weapon
+Shuriken,Common,Weapon
+Sinister Book,Common,Weapon
+Sinister Horn,Common,Weapon
+Snowball,Common,Weapon
+Spell Book,Common,Weapon
+Spiked Staff,Common,Weapon
+Star,Common,Weapon
+Star Book,Common,Weapon
+Sun Book,Common,Weapon
+Sun Flask,Common,Weapon
+Sun Orb,Common,Weapon
+Sun Shard,Common,Weapon
+Torch,Common,Weapon
+Twig Wand,Common,Weapon
+Umbrella,Common,Weapon
+Unicorn,Common,Weapon
+Vase,Common,Weapon
+Water Flask,Common,Weapon
+Watermelon,Common,Weapon
+Witch Broom,Common,Weapon
+Wizard Wand,Common,Weapon
+Wooden Staff,Common,Weapon
+Wooden Wand,Common,Weapon
+Woodland Staff,Common,Weapon
+Yellow Snowball,Common,Weapon
+Toxic Wand,Common,Weapon
+Pumpkin Wand,Common,Weapon
+Toxic Pick Caster,Common,Weapon
+Orbsoul Wand,Common,Weapon
+Fury Staff,Common,Weapon
+Star Wand,Common,Weapon
+Super Elf Caster,Common,Weapon
+Sick Staff,Common,Weapon
+Ruby Staff,Common,Weapon
+Emerald Staff,Common,Weapon
+Egg Twig,Common,Weapon
+Alpha,Rare,Weapon
+Amethyst Smacker,Rare,Weapon
+Avalanche,Rare,Weapon
+Beach Blade,Rare,Weapon
+Blue Beach Umbrella,Rare,Weapon
+Blue Surfboard,Rare,Weapon
+Big Fried Chicken,Rare,Weapon
+Boulder,Rare,Weapon
+Candy Cane Blade,Rare,Weapon
+Candy Sword Cane,Rare,Weapon
+Carrot Saw,Rare,Weapon
+Chocolate Ice Cream,Rare,Weapon
+Conqueror,Rare,Weapon
+Cross,Rare,Weapon
+Crown Spear,Rare,Weapon
+Crusher,Rare,Weapon
+Crystal Blade,Rare,Weapon
+Cyber Club,Rare,Weapon
+Cyber Longsword,Rare,Weapon
+Dark Khopesh,Rare,Weapon
+Death Ball,Rare,Weapon
+Demon Trident,Rare,Weapon
+Destroyer,Rare,Weapon
+Dominator,Rare,Weapon
+Earth Blade,Rare,Weapon
+Flame Axe,Rare,Weapon
+Froster,Rare,Weapon
+Gamma,Rare,Weapon
+Ghostly Dagger,Rare,Weapon
+Giant Crate,Rare,Weapon
+Giant Barrel,Rare,Weapon
+Golden Claws,Rare,Weapon
+Golden Crowbar,Rare,Weapon
+Golden Kama,Rare,Weapon
+Golden Kunai,Rare,Weapon
+Golden Pan,Rare,Weapon
+Golden Sai,Rare,Weapon
+Golden Spartan Sword,Rare,Weapon
+Golden Sword,Rare,Weapon
+Golden Trident,Rare,Weapon
+Grabby Claw,Rare,Weapon
+Grass Blade,Rare,Weapon
+Gravestone,Rare,Weapon
+Green Beach Umbrella,Rare,Weapon
+Hallow Hammer,Rare,Weapon
+Handsaw,Rare,Weapon
+Ice Blade,Rare,Weapon
+Ice Cream Sandwich,Rare,Weapon
+Ice Smacker,Rare,Weapon
+Ice Spike,Rare,Weapon
+Ice Thwomper,Rare,Weapon
+Ignis,Rare,Weapon
+Jawbreaker,Rare,Weapon
+Jolly Smacker,Rare,Weapon
+Laserlight,Rare,Weapon
+Lava Blade,Rare,Weapon
+Light Dagger,Rare,Weapon
+Lime Popsicle,Rare,Weapon
+Log,Rare,Weapon
+Love Ball,Rare,Weapon
+Love Crusher,Rare,Weapon
+Mailbox,Rare,Weapon
+Magical Blade,Rare,Weapon
+Metal Chair,Rare,Weapon
+Meteor,Rare,Weapon
+Molten Trench,Rare,Weapon
+Moon Rock,Rare,Weapon
+Nunchucks,Rare,Weapon
+Obsidian Edge,Rare,Weapon
+Orange Popsicle,Rare,Weapon
+Orange Surfboard,Rare,Weapon
+Orb Scythe,Rare,Weapon
+Paintbrush,Rare,Weapon
+Pink Beach Umbrella,Rare,Weapon
+Pink Candy Cane Lollipop,Rare,Weapon
+Pitchfork,Rare,Weapon
+Pulse,Rare,Weapon
+Quantum Crusher,Rare,Weapon
+Reaper,Rare,Weapon
+Red Surfboard,Rare,Weapon
+Ripper,Rare,Weapon
+Robot Smacker,Rare,Weapon
+Royalty,Rare,Weapon
+Shadow Blade,Rare,Weapon
+Sickle Scythe,Rare,Weapon
+Sinister Saw,Rare,Weapon
+Slime Scythe,Rare,Weapon
+Stormbringer,Rare,Weapon
+Strawberry Ice Cream,Rare,Weapon
+Street Sign,Rare,Weapon
+Sun Smasher,Rare,Weapon
+Surfer Blade,Rare,Weapon
+Sword Cane,Rare,Weapon
+Tangerine,Rare,Weapon
+Teal Candy Cane Lollipop,Rare,Weapon
+Thunder Blade,Rare,Weapon
+Underdagger,Rare,Weapon
+Underspear,Rare,Weapon
+Vanilla Ice Cream,Rare,Weapon
+Venom Sting,Rare,Weapon
+Vine Spear,Rare,Weapon
+Vine Trident,Rare,Weapon
+Water Blade,Rare,Weapon
+Water Dagger,Rare,Weapon
+Winter Sword,Rare,Weapon
+Yellow Surfboard,Rare,Weapon
+Jack O' Smacker,Rare,Weapon
+Jack O' Whacker,Rare,Weapon
+Bolt Dagger,Rare,Weapon
+Green Energy Dagger,Rare,Weapon
+Cosmic Sword,Rare,Weapon
+Merry Thwomper,Rare,Weapon
+Snowflake Shuriken,Rare,Weapon
+Venom Axe,Rare,Weapon
+Deep Axe,Rare,Weapon
+Laser Slicer,Rare,Weapon
+Bunny Katars,Rare,Weapon
+Arcane Book,Rare,Weapon
+Arcane Disc,Rare,Weapon
+Arcane Entropy,Rare,Weapon
+Arcane Staff,Rare,Weapon
+Beachball Wand,Rare,Weapon
+Beachball Staff,Rare,Weapon
+Blue Ornament Staff,Rare,Weapon
+Blueberry Candy Cane,Rare,Weapon
+Book of Fire,Rare,Weapon
+Book of Water,Rare,Weapon
+Candy Corn Staff,Rare,Weapon
+Candy Keeper,Rare,Weapon
+Chocolate Candy Cane,Rare,Weapon
+Cold Rune Staff,Rare,Weapon
+Cookie Wand,Rare,Weapon
+Dark Tiki Torch,Rare,Weapon
+Death Note,Rare,Weapon
+Death Shroomer,Rare,Weapon
+Death Shuriken,Rare,Weapon
+Divine Staff,Rare,Weapon
+Earth Staff,Rare,Weapon
+Easter Caster,Rare,Weapon
+Elf Staff,Rare,Weapon
+Enchanter,Rare,Weapon
+Entropy,Rare,Weapon
+Fire Potion,Rare,Weapon
+Flame Staff,Rare,Weapon
+Frost Potion,Rare,Weapon
+Galaxy Cuff,Rare,Weapon
+Gamma Cell,Rare,Weapon
+Golden Anchor,Rare,Weapon
+Golden Bone,Rare,Weapon
+Golden Candle,Rare,Weapon
+Golden Horseshoe,Rare,Weapon
+Green Ornament Staff,Rare,Weapon
+Gummy Bear Staff,Rare,Weapon
+Hazardous Cell,Rare,Weapon
+Holiday Cuff,Rare,Weapon
+Ice Caster,Rare,Weapon
+Jade,Rare,Weapon
+Jewel Keeper,Rare,Weapon
+Lava Cell,Rare,Weapon
+Love Shuriken,Rare,Weapon
+Lemon Caster,Rare,Weapon
+Light Shuriken,Rare,Weapon
+Magic Icicle,Rare,Weapon
+Magma Shroomer,Rare,Weapon
+Magnetic Wand,Rare,Weapon
+Orbital Lava Staff,Rare,Weapon
+Phantom,Rare,Weapon
+Pierce,Rare,Weapon
+Plasma Cuff,Rare,Weapon
+Poison Shuriken,Rare,Weapon
+Red Gem Staff,Rare,Weapon
+Red Lantern Staff,Rare,Weapon
+Red Ornament Staff,Rare,Weapon
+Robot Caster,Rare,Weapon
+Royal Cuff,Rare,Weapon
+Royal Scepter,Rare,Weapon
+Ruby Eye Staff,Rare,Weapon
+Runic,Rare,Weapon
+Sapphire Eye Staff,Rare,Weapon
+Scepter,Rare,Weapon
+Shadow Shuriken,Rare,Weapon
+Shortcake Staff,Rare,Weapon
+Sinister Cuff,Rare,Weapon
+Slime Shroomer,Rare,Weapon
+Slime Potion,Rare,Weapon
+Snowball Staff,Rare,Weapon
+Snowflake,Rare,Weapon
+Snowflake Staff,Rare,Weapon
+Solar Cuff,Rare,Weapon
+Spectre,Rare,Weapon
+Staff of Luck,Rare,Weapon
+Staff of Sparks,Rare,Weapon
+Stardust Keeper,Rare,Weapon
+Sun Staff,Rare,Weapon
+Tiki Torch,Rare,Weapon
+Tormentor,Rare,Weapon
+Vine Book,Rare,Weapon
+Wand of Flames,Rare,Weapon
+Wand of Light,Rare,Weapon
+Wand of Power,Rare,Weapon
+Wand of Stars,Rare,Weapon
+Wand of Truth,Rare,Weapon
+Water Wand,Rare,Weapon
+Xeno Wand,Rare,Weapon
+Hallow Wand,Rare,Weapon
+Grim Caster,Rare,Weapon
+Amethyst Staff,Rare,Weapon
+Static Staff,Rare,Weapon
+Frost Staff,Rare,Weapon
+Snowy Staff,Rare,Weapon
+Venom Wand,Rare,Weapon
+Royal Egg Wand,Rare,Weapon
+Egg Branch,Rare,Weapon
+Bamboo Katana,Legendary,Weapon
+Blizzard Striker,Legendary,Weapon
+Breaker,Legendary,Weapon
+Bubblegum Scythe,Legendary,Weapon
+Cactus,Legendary,Weapon
+Candy Cane Spear,Legendary,Weapon
+Celestial Edge,Legendary,Weapon
+Chiller,Legendary,Weapon
+Colossal,Legendary,Weapon
+Crystal Edge,Legendary,Weapon
+Cyber Cutlass,Legendary,Weapon
+Dead Tree,Legendary,Weapon
+Demon Slayer,Legendary,Weapon
+Dragon Slayer,Legendary,Weapon
+Egg Claymore,Legendary,Weapon
+Elemental Blade,Legendary,Weapon
+Energy Sword,Legendary,Weapon
+Fire Piercer,Legendary,Weapon
+Flag,Legendary,Weapon
+Fork,Legendary,Weapon
+Ghostwalker,Legendary,Weapon
+Giant Cyber Sword,Legendary,Weapon
+Golden Nunchucks,Legendary,Weapon
+Ice Dagger,Legendary,Weapon
+Inferno,Legendary,Weapon
+Knight Scythe,Legendary,Weapon
+Lollipopper,Legendary,Weapon
+Molten Rock,Legendary,Weapon
+Palm Tree,Legendary,Weapon
+Poison Reaper,Legendary,Weapon
+Red Energy Sword,Legendary,Weapon
+Sea Spear,Legendary,Weapon
+Sinister Slasher,Legendary,Weapon
+Spatula,Legendary,Weapon
+Static Spear,Legendary,Weapon
+Solar Axe,Legendary,Weapon
+Sun Sword,Legendary,Weapon
+Thunder Banana,Legendary,Weapon
+Thunder Edge,Legendary,Weapon
+Thunderbolt,Legendary,Weapon
+True Ice Blade,Legendary,Weapon
+Whisk,Legendary,Weapon
+Winter Shard,Legendary,Weapon
+Haunted Halberd,Legendary,Weapon
+Gravewalker,Legendary,Weapon
+Hallow Attacker,Legendary,Weapon
+Toxic Attacker,Legendary,Weapon
+Shock Blade,Legendary,Weapon
+Energy Warhammer,Legendary,Weapon
+Frostab,Legendary,Weapon
+Candy Striped Sword,Legendary,Weapon
+Holiday Halberd,Legendary,Weapon
+Super Elf Blade,Legendary,Weapon
+Toxic Reaver,Legendary,Weapon
+Death Claymore,Legendary,Weapon
+Galaxy Glaive,Legendary,Weapon
+Lucky Machete,Legendary,Weapon
+Hive Staff,Legendary,Weapon
+Acid Scepter,Legendary,Weapon
+Angelica,Legendary,Weapon
+Balloon,Legendary,Weapon
+Banana,Legendary,Weapon
+Blue Balloon,Legendary,Weapon
+Celestial Scepter,Legendary,Weapon
+Chandelier,Legendary,Weapon
+Cursed Staff,Legendary,Weapon
+Dojo Caster,Legendary,Weapon
+Dragon's Grasp,Legendary,Weapon
+Dreggon's Potion,Legendary,Weapon
+Eerie Staff,Legendary,Weapon
+Elf Caster,Legendary,Weapon
+Gear Staff,Legendary,Weapon
+Ice Sceptre,Legendary,Weapon
+Ivory,Legendary,Weapon
+Lava Caster,Legendary,Weapon
+Lime Egg,Legendary,Weapon
+Magic Beachball,Legendary,Weapon
+Magic Coconut,Legendary,Weapon
+Magic Egg,Legendary,Weapon
+Magic Pearl,Legendary,Weapon
+Magno,Legendary,Weapon
+Molten Banana,Legendary,Weapon
+Pastel Egg,Legendary,Weapon
+Pink Balloon,Legendary,Weapon
+Prestige,Legendary,Weapon
+Sled,Legendary,Weapon
+Snowfall Guardian,Legendary,Weapon
+Sparkler,Legendary,Weapon
+Spoon,Legendary,Weapon
+Stardust Guardian,Legendary,Weapon
+Thunder Scepter,Legendary,Weapon
+Toilet Paper,Legendary,Weapon
+Yellow Lantern Staff,Legendary,Weapon
+Toxic Balloon,Legendary,Weapon
+Toxic Cauldron,Legendary,Weapon
+Poison Cauldron,Legendary,Weapon
+Orbsoul,Legendary,Weapon
+Holiday Scepter,Legendary,Weapon
+Elf Enchanter,Legendary,Weapon
+Super Elf Staff,Legendary,Weapon
+Toxic Caster,Legendary,Weapon
+Sunset Egg Staff,Legendary,Weapon
+Violet Egg Staff,Legendary,Weapon
+Yolkslinger,Legendary,Weapon
+Admin Egg Launcher,Legendary,Weapon
+Developer Egg Launcher,Legendary,Weapon
+Influencer Egg Launcher,Legendary,Weapon
+Ban Hammer,Mythical,Weapon
+Blue Katana,Mythical,Weapon
+Bubblegum Saber,Mythical,Weapon
+Candy Corn Chainsword,Mythical,Weapon
+Candy Katana,Mythical,Weapon
+Carrot Blade,Mythical,Weapon
+Corrupter,Mythical,Weapon
+Crescent Blade,Mythical,Weapon
+Crimson Saber,Mythical,Weapon
+Dark Katana,Mythical,Weapon
+Dark Saber,Mythical,Weapon
+Darkheart,Mythical,Weapon
+Death Hammer,Mythical,Weapon
+Devastator,Mythical,Weapon
+Easter Periastron,Mythical,Weapon
+Eerie Saber,Mythical,Weapon
+Egg Beater,Mythical,Weapon
+Egg Slasher,Mythical,Weapon
+Energy Saber,Mythical,Weapon
+Fiery Katana,Mythical,Weapon
+Firebrand,Mythical,Weapon
+Frozen Halberd,Mythical,Weapon
+Galactic Chainsword,Mythical,Weapon
+Galaxy Saber,Mythical,Weapon
+Galaxy Sword,Mythical,Weapon
+Golden Fork,Mythical,Weapon
+Golden Katana,Mythical,Weapon
+Green Katana,Mythical,Weapon
+Haunted Blade,Mythical,Weapon
+Heart Hammer,Mythical,Weapon
+Holographic Hammer,Mythical,Weapon
+Ice Slayer,Mythical,Weapon
+Illumina,Mythical,Weapon
+Infinity Egg Blade,Mythical,Weapon
+Katana,Mythical,Weapon
+Lunar Blade,Mythical,Weapon
+Nebula Blade,Mythical,Weapon
+Ocean Katana,Mythical,Weapon
+Ocean Saber,Mythical,Weapon
+OP Wooden Sword,Mythical,Weapon
+Orange Katana,Mythical,Weapon
+Poseidon Trident,Mythical,Weapon
+Prismatic,Mythical,Weapon
+Purple Katana,Mythical,Weapon
+Rainbow Chainsword,Mythical,Weapon
+Rainbow Periastron,Mythical,Weapon
+Red Katana,Mythical,Weapon
+Red Periastron,Mythical,Weapon
+Royal Hammer,Mythical,Weapon
+Saber,Mythical,Weapon
+Samurai Blade,Mythical,Weapon
+Santa's Saber,Mythical,Weapon
+Shamrocker,Mythical,Weapon
+Shard,Mythical,Weapon
+Shredder,Mythical,Weapon
+Shuriken of the Sun,Mythical,Weapon
+Sinister Saber,Mythical,Weapon
+Summer Lance,Mythical,Weapon
+Sun Axe,Mythical,Weapon
+Sun Periastron,Mythical,Weapon
+Sun Saber,Mythical,Weapon
+Tempest,Mythical,Weapon
+Turkey Leg,Mythical,Weapon
+Underscythe,Mythical,Weapon
+Venomshank,Mythical,Weapon
+Void Scythe,Mythical,Weapon
+White Periastron,Mythical,Weapon
+Yellow Katana,Mythical,Weapon
+Pumpkin Blade,Mythical,Weapon
+Toxic Periastron,Mythical,Weapon
+Toxic Trident,Mythical,Weapon
+Hallow Trident,Mythical,Weapon
+Evil Trident,Mythical,Weapon
+Hallow Piercer,Mythical,Weapon
+Grim Axe,Mythical,Weapon
+Rainbow Trident,Mythical,Weapon
+Soul Reaver,Mythical,Weapon
+Soul Chakram,Mythical,Weapon
+Soul Shuriken,Mythical,Weapon
+Angelic Greataxe,Mythical,Weapon
+Dark Halberd,Mythical,Weapon
+Demonic Warblade,Mythical,Weapon
+Red Energy Blade,Mythical,Weapon
+Orange Energy Blade,Mythical,Weapon
+Yellow Energy Blade,Mythical,Weapon
+Green Energy Blade,Mythical,Weapon
+Blue Energy Blade,Mythical,Weapon
+Purple Energy Blade,Mythical,Weapon
+Holiday Spear,Mythical,Weapon
+Mint Slasher,Mythical,Weapon
+Festive Sword,Mythical,Weapon
+Pristine,Mythical,Weapon
+Festive Striker,Mythical,Weapon
+Poison Halberd,Mythical,Weapon
+Death Axe,Mythical,Weapon
+Radiant,Mythical,Weapon
+Lovely Katana,Mythical,Weapon
+Lucky Sword,Mythical,Weapon
+Earth Claymore,Mythical,Weapon
+Spring Axe,Mythical,Weapon
+Carrot Edge,Mythical,Weapon
+Reggal Slasher,Mythical,Weapon
+Cleggmore,Mythical,Weapon
+Glint,Mythical,Weapon
+Aqua Caster,Mythical,Weapon
+Bloxy,Mythical,Weapon
+Chromatic,Mythical,Weapon
+Dark Pumpkin Staff,Mythical,Weapon
+Dark Staff,Mythical,Weapon
+Dazzle,Mythical,Weapon
+Diamond Bloxy,Mythical,Weapon
+Dyed Egg Caster,Mythical,Weapon
+Eternal,Mythical,Weapon
+Ferro,Mythical,Weapon
+Fiery Staff,Mythical,Weapon
+Frozen Caster,Mythical,Weapon
+Golden Balloon,Mythical,Weapon
+Golden Candy Cane,Mythical,Weapon
+Golden Chandelier,Mythical,Weapon
+Golden Robloxian,Mythical,Weapon
+Golden Shuriken,Mythical,Weapon
+Galaxy Staff,Mythical,Weapon
+Golden Spoon,Mythical,Weapon
+Holographic Caster,Mythical,Weapon
+Immortal,Mythical,Weapon
+Infecter,Mythical,Weapon
+Light Pumpkin Staff,Mythical,Weapon
+Love Caster,Mythical,Weapon
+Lunar Staff,Mythical,Weapon
+Nebula Caster,Mythical,Weapon
+Pearl Caster,Mythical,Weapon
+Permafrost Orb,Mythical,Weapon
+Platinum Bloxy,Mythical,Weapon
+Pot O' Gold,Mythical,Weapon
+Rainbow Caster,Mythical,Weapon
+Recipe Book,Mythical,Weapon
+Royal Egg Staff,Mythical,Weapon
+Royal Toilet Paper,Mythical,Weapon
+Summoner,Mythical,Weapon
+Sun Enchanter,Mythical,Weapon
+Sun Orbstaff,Mythical,Weapon
+Undercaster,Mythical,Weapon
+Void Caster,Mythical,Weapon
+Yolk Caster,Mythical,Weapon
+Toxic Orbstaff,Mythical,Weapon
+Toxic Pumpkin Staff,Mythical,Weapon
+Evil Pumpkin Staff,Mythical,Weapon
+Rainbow Scepter,Mythical,Weapon
+Shock Caster,Mythical,Weapon
+Angelic Staff,Mythical,Weapon
+Demonic Staff,Mythical,Weapon
+Frost Enchanter,Mythical,Weapon
+Festive Staff,Mythical,Weapon
+Iceflake Staff,Mythical,Weapon
+Festive Summoner,Mythical,Weapon
+Poison Caster,Mythical,Weapon
+Valor,Mythical,Weapon
+Lovely Summoner,Mythical,Weapon
+Lucky Staff,Mythical,Weapon
+Sunflower,Mythical,Weapon
+Daisy,Mythical,Weapon
+Dreggon Orbstaff,Mythical,Weapon
+Angegglic Staff,Mythical,Weapon
+Deggree,Mythical,Weapon
+Aqua Stabbers,Ultimate,Weapon
+Blizzard,Ultimate,Weapon
+Blood Moon Blade,Ultimate,Weapon
+Bunny Scythe,Ultimate,Weapon
+Corrosive,Ultimate,Weapon
+Cosmic Egg Slasher,Ultimate,Weapon
+Demon,Ultimate,Weapon
+Drake,Ultimate,Weapon
+Dual Spirit,Ultimate,Weapon
+Dual Strikers,Ultimate,Weapon
+Dual Summer Katana,Ultimate,Weapon
+Electrocute,Ultimate,Weapon
+Enchanted Blade,Ultimate,Weapon
+Energy Katana,Ultimate,Weapon
+Epic Katana,Ultimate,Weapon
+Epic Saber,Ultimate,Weapon
+Executor,Ultimate,Weapon
+Frosty,Ultimate,Weapon
+Galaxy Slayer,Ultimate,Weapon
+Golden Lance,Ultimate,Weapon
+Hallow's Edge,Ultimate,Weapon
+Harvester,Ultimate,Weapon
+Jade Guardian,Ultimate,Weapon
+King Hammer,Ultimate,Weapon
+Krampus,Ultimate,Weapon
+Malachite,Ultimate,Weapon
+Ocean Hammer,Ultimate,Weapon
+Ocean Scythe,Ultimate,Weapon
+Ocean Striker,Ultimate,Weapon
+Omega Sickle,Ultimate,Weapon
+Poison Fang,Ultimate,Weapon
+Rainbowfrost,Ultimate,Weapon
+Santa's Hammer,Ultimate,Weapon
+Santa's Scythe,Ultimate,Weapon
+Shadow King,Ultimate,Weapon
+Solar Sword,Ultimate,Weapon
+Spooky Sickle,Ultimate,Weapon
+Spring Lance,Ultimate,Weapon
+Spring Scimitar,Ultimate,Weapon
+Summertide,Ultimate,Weapon
+Summer Hammer,Ultimate,Weapon
+Summer Sickle,Ultimate,Weapon
+Torment,Ultimate,Weapon
+Torrent,Ultimate,Weapon
+Tundra,Ultimate,Weapon
+Underblade,Ultimate,Weapon
+Vlad,Ultimate,Weapon
+Void,Ultimate,Weapon
+Wintertide,Ultimate,Weapon
+Grim Sickle,Ultimate,Weapon
+Grimblade,Ultimate,Weapon
+Grimitar,Ultimate,Weapon
+Toxic Katana,Ultimate,Weapon
+Toxic Slasher,Ultimate,Weapon
+Hallow Slasher,Ultimate,Weapon
+Bat Striker,Ultimate,Weapon
+Toxic Fang,Ultimate,Weapon
+Hallow Fang,Ultimate,Weapon
+Toxic Mega Trident,Ultimate,Weapon
+Soul Blade,Ultimate,Weapon
+Doomfire,Ultimate,Weapon
+Bat Blade,Ultimate,Weapon
+Falchion,Ultimate,Weapon
+Absolute Zero,Ultimate,Weapon
+Spatha,Ultimate,Weapon
+Mint Monster,Ultimate,Weapon
+Treenergy,Ultimate,Weapon
+Omega Energy Blade,Ultimate,Weapon
+Grinch Slayer,Ultimate,Weapon
+Soulfire,Ultimate,Weapon
+Festive Hammer,Ultimate,Weapon
+Plaguebearer,Ultimate,Weapon
+Extinction,Ultimate,Weapon
+Infernal,Ultimate,Weapon
+Spring Cannon,Ultimate,Weapon
+Sunflower Slayer,Ultimate,Weapon
+Sunflower Scythe,Ultimate,Weapon
+Spring Scythe,Ultimate,Weapon
+Bunny Blade,Ultimate,Weapon
+Rabbit Blade,Ultimate,Weapon
+Dual Spring Axe,Ultimate,Weapon
+Sunset Cannon,Ultimate,Weapon
+Daisy Destroyer,Ultimate,Weapon
+Sunset Scythe,Ultimate,Weapon
+Aqua Zapper,Ultimate,Weapon
+Arcane Dragon Staff,Ultimate,Weapon
+Blood Moon Staff,Ultimate,Weapon
+Eggsecutor,Ultimate,Weapon
+Eggselerator,Ultimate,Weapon
+Mystical,Ultimate,Weapon
+Phantasm,Ultimate,Weapon
+Polar Staff,Ultimate,Weapon
+Spooxy,Ultimate,Weapon
+Sun Zapper,Ultimate,Weapon
+Sunset Scepter,Ultimate,Weapon
+Synthesis,Ultimate,Weapon
+Tectonic,Ultimate,Weapon
+Unreal Caster,Ultimate,Weapon
+Toxic Zapper,Ultimate,Weapon
+Toxic Staff,Ultimate,Weapon
+Drainer,Ultimate,Weapon
+Hallow Caster,Ultimate,Weapon
+Toxic Starcaster,Ultimate,Weapon
+Hallow Starcaster,Ultimate,Weapon
+Soul Staff,Ultimate,Weapon
+Year's End,Ultimate,Weapon
+Holiday Orbstaff,Ultimate,Weapon
+Subzero Staff,Ultimate,Weapon
+North Pole,Ultimate,Weapon
+Festive Spellbinder,Ultimate,Weapon
+Gifted Orbstaff,Ultimate,Weapon
+Famine,Ultimate,Weapon
+Eggchanter,Ultimate,Weapon
+Rod of Eggs,Ultimate,Weapon
+Thorned Egg,Ultimate,Weapon
+Thorned Yolk,Ultimate,Weapon
+Green Eggslinger,Ultimate,Weapon
+Blue Eggslinger,Ultimate,Weapon
+Pink Eggslinger,Ultimate,Weapon
+Rainbow Flower,Ultimate,Weapon
+Sunsegg,Ultimate,Weapon
+Arrow,Common,Helmet
+Ash Kaiser,Common,Helmet
+Barbarian Crown,Common,Helmet
+Balloon Ninja,Common,Helmet
+Barrel,Common,Helmet
+Beach Bucket,Common,Helmet
+Bell Helmet,Common,Helmet
+Black Knight,Common,Helmet
+Black Spartan,Common,Helmet
+Blue Barrel,Common,Helmet
+Blue Bubblegum,Common,Helmet
+Blue Ninja,Common,Helmet
+Bobby Cap,Common,Helmet
+Bolts,Common,Helmet
+Bowl,Common,Helmet
+Bronze Kaiser,Common,Helmet
+Bucket,Common,Helmet
+Cactus Helmet,Common,Helmet
+Chocolate Donut,Common,Helmet
+Crate,Common,Helmet
+Crimson Horns,Common,Helmet
+Crimson Ninja,Common,Helmet
+Drill Sergeant,Common,Helmet
+Fallen Halo,Common,Helmet
+Frost Vision Goggles,Common,Helmet
+Gladiator Helmet,Common,Helmet
+Goofy Pumpkin,Common,Helmet
+Green Barrel,Common,Helmet
+Green Pail,Common,Helmet
+Halloween Santa,Common,Helmet
+Horned Headband,Common,Helmet
+Ice Cream Cone,Common,Helmet
+Ice Cube,Common,Helmet
+Jack O' Lantern,Common,Helmet
+Knight Helmet,Common,Helmet
+Pan Helmet,Common,Helmet
+Pink Winter Cap,Common,Helmet
+Pith Helmet,Common,Helmet
+Plastic Pail,Common,Helmet
+Red Barrel,Common,Helmet
+Red Pail,Common,Helmet
+Red Summer Hat,Common,Helmet
+Red Winter Cap,Common,Helmet
+Rhino Trooper,Common,Helmet
+Scorpion Helmet,Common,Helmet
+Shell,Common,Helmet
+Sinister Headband,Common,Helmet
+Snowman,Common,Helmet
+Sparring Helmet,Common,Helmet
+Spartan Helmet,Common,Helmet
+Strawberry Donut,Common,Helmet
+Thinking Hand,Common,Helmet
+Tin Pot,Common,Helmet
+Upside Down Snowman,Common,Helmet
+Viking Helmet,Common,Helmet
+Welding Mask,Common,Helmet
+Yellow Pail,Common,Helmet
+Red Knight,Common,Helmet
+Dome,Common,Helmet
+Red Pith Helm,Common,Helmet
+Amethyst Visor,Common,Helmet
+Bandana,Common,Helmet
+Beachball,Common,Helmet
+Beanie,Common,Helmet
+Black Summer Hat,Common,Helmet
+Blue Santa,Common,Helmet
+Bubblegum,Common,Helmet
+Chasing Carrots,Common,Helmet
+Chocolate Mess,Common,Helmet
+Crimson Band,Common,Helmet
+Copper Crown,Common,Helmet
+Deal With It,Common,Helmet
+Desert Prince,Common,Helmet
+Doom Crown,Common,Helmet
+Egg Head,Common,Helmet
+Elf,Common,Helmet
+Emerald Eye,Common,Helmet
+Fish Bowl,Common,Helmet
+Flower Pot,Common,Helmet
+Gold Bars,Common,Helmet
+Golden Visor,Common,Helmet
+Gnome Hat,Common,Helmet
+Green Bandana,Common,Helmet
+Halo,Common,Helmet
+Happy Pumpkin,Common,Helmet
+Headband,Common,Helmet
+Ice Horns,Common,Helmet
+Leaf Crown,Common,Helmet
+Lifesaver,Common,Helmet
+Lily Pad,Common,Helmet
+Ninja Mask,Common,Helmet
+Orange Bubblegum,Common,Helmet
+Orange Horns,Common,Helmet
+Orange Unicorn,Common,Helmet
+Pink Bandana,Common,Helmet
+Pink Summer Hat,Common,Helmet
+Pink Unicorn,Common,Helmet
+Poseidons Crown,Common,Helmet
+Purple Unicorn,Common,Helmet
+Queen's Guard,Common,Helmet
+Red Bandana,Common,Helmet
+Red Elf,Common,Helmet
+Rugged Hat,Common,Helmet
+Santa,Common,Helmet
+Shadow Band,Common,Helmet
+Shadow Ninja,Common,Helmet
+Shrub Sorcerer,Common,Helmet
+Strawberry Mess,Common,Helmet
+Straw Hat,Common,Helmet
+Sun Hat,Common,Helmet
+Telamon Hair,Common,Helmet
+Tribal Headband,Common,Helmet
+Vanilla Mess,Common,Helmet
+Warlock Hat,Common,Helmet
+White Bandana,Common,Helmet
+Witch Hat,Common,Helmet
+Wizard Hat,Common,Helmet
+Undercover Witch,Common,Helmet
+Mineral Horns,Common,Helmet
+Green Santa Hat,Common,Helmet
+Poison Witch,Common,Helmet
+Poison Spartan,Common,Helmet
+Android Deputy,Rare,Helmet
+Arachnoid,Rare,Helmet
+Armored Bucket,Rare,Helmet
+Astronaut Helmet,Rare,Helmet
+Banana Helmet,Rare,Helmet
+Biker Helmet,Rare,Helmet
+Caesars Helmet,Rare,Helmet
+Coconut Head,Rare,Helmet
+Coconut Helmet,Rare,Helmet
+Cookie Mecha,Rare,Helmet
+Crimson Antlers,Rare,Helmet
+Crimson Warrior,Rare,Helmet
+Frozen North Helm,Rare,Helmet
+Glacial Conqueror,Rare,Helmet
+Glacial Viking,Rare,Helmet
+Golden Spartan,Rare,Helmet
+Golden Viking,Rare,Helmet
+Golden Warrior,Rare,Helmet
+Hematite Eye,Rare,Helmet
+Jade Warrior,Rare,Helmet
+Jolly Bucket,Rare,Helmet
+Kaiser Helmet,Rare,Helmet
+Lava Conqueror,Rare,Helmet
+Light Pumpkin,Rare,Helmet
+Martian Voyager,Rare,Helmet
+Mecha Helmet,Rare,Helmet
+Mecha Prime,Rare,Helmet
+Mining Helmet,Rare,Helmet
+Ochre Eye,Rare,Helmet
+Plunger Hat,Rare,Helmet
+Sinister Bucket,Rare,Helmet
+Spiked Crown,Rare,Helmet
+Spiked Headband,Rare,Helmet
+Trash Can Lid,Rare,Helmet
+Ugly Bucket,Rare,Helmet
+Void Voyager,Rare,Helmet
+Whipped Cream,Rare,Helmet
+White Mining Helmet,Rare,Helmet
+Metal Pot,Rare,Helmet
+Shock Helm,Rare,Helmet
+Super Elf Trojan,Rare,Helmet
+Venom Demon,Rare,Helmet
+Amethyst Crown,Rare,Helmet
+Antenna Antlers,Rare,Helmet
+Arcane Hat,Rare,Helmet
+Autumn Laurel,Rare,Helmet
+Bronze Crown,Rare,Helmet
+Candy Corn Crown,Rare,Helmet
+Cauldron,Rare,Helmet
+Citrine Crown,Rare,Helmet
+Cookie Crown,Rare,Helmet
+Crimson Cone,Rare,Helmet
+Cupcake Helmet,Rare,Helmet
+Cyber Ops,Rare,Helmet
+Death Pumpkin,Rare,Helmet
+Devil Horns,Rare,Helmet
+Domino Crown,Rare,Helmet
+Earth Caster,Rare,Helmet
+Emerald Crown,Rare,Helmet
+Frozen Antlers,Rare,Helmet
+Gear Crown,Rare,Helmet
+Golden Laurel,Rare,Helmet
+Heart Candy Crown,Rare,Helmet
+Ice Crown,Rare,Helmet
+Icy Sombrero,Rare,Helmet
+Life Buoy,Rare,Helmet
+Manhole,Rare,Helmet
+Midnight Commando,Rare,Helmet
+Molten Wizard,Rare,Helmet
+Mushroom Cap,Rare,Helmet
+Obsidian Domino,Rare,Helmet
+Reindeer Nose,Rare,Helmet
+Royal Crown,Rare,Helmet
+Runic Hat,Rare,Helmet
+Ruby Crown,Rare,Helmet
+Seashell Crown,Rare,Helmet
+Shiny Unicorn,Rare,Helmet
+Silver Crown,Rare,Helmet
+Snooze Cap,Rare,Helmet
+Star Halo,Rare,Helmet
+Topper,Rare,Helmet
+Traffic Cone,Rare,Helmet
+Tree Wizard,Rare,Helmet
+UFO,Rare,Helmet
+White Domino,Rare,Helmet
+Winter Laurel,Rare,Helmet
+Dark Hood,Rare,Helmet
+Static Wizard,Rare,Helmet
+Wreath,Rare,Helmet
+Venom Hood,Rare,Helmet
+Deep Horns,Rare,Helmet
+Blizzaria,Legendary,Helmet
+Candy Hunter,Legendary,Helmet
+Dragon Hunter,Legendary,Helmet
+Dwarven,Legendary,Helmet
+Fiery Tusks,Legendary,Helmet
+Fire Shogun,Legendary,Helmet
+Frost Knight,Legendary,Helmet
+Galaxy Guardian,Legendary,Helmet
+Green Valkyrie,Legendary,Helmet
+Hidden Shogun,Legendary,Helmet
+Hunter,Legendary,Helmet
+Ice Tusks,Legendary,Helmet
+Icy Commando,Legendary,Helmet
+Light Shogun,Legendary,Helmet
+Love Horns,Legendary,Helmet
+Millionaire,Legendary,Helmet
+Molten Head,Legendary,Helmet
+Pastel Shaggy,Legendary,Helmet
+Purple Valkyrie,Legendary,Helmet
+Red Valkyrie,Legendary,Helmet
+Ruby Guardian,Legendary,Helmet
+King's Crown,Legendary,Helmet
+Sapphire Guardian,Legendary,Helmet
+Shadow Shogun,Legendary,Helmet
+Sinister Warlord,Legendary,Helmet
+Summer Specialist,Legendary,Helmet
+Thunder Horns,Legendary,Helmet
+Water Shogun,Legendary,Helmet
+Warlord,Legendary,Helmet
+Grim Gladiator,Legendary,Helmet
+Toxic Fighter,Legendary,Helmet
+Static Warrior,Legendary,Helmet
+Super Elf Warrior,Legendary,Helmet
+Toxic Warhelm,Legendary,Helmet
+Black Valkyrie,Legendary,Helmet
+Banana Boy,Legendary,Helmet
+Bunny Ears,Legendary,Helmet
+Cactus Crown,Legendary,Helmet
+Cookie Top Hat,Legendary,Helmet
+Crimson Top Hat,Legendary,Helmet
+Crown of Flames,Legendary,Helmet
+Darkseed,Legendary,Helmet
+Emo Crown,Legendary,Helmet
+Fiery Antlers,Legendary,Helmet
+Frost Top Hat,Legendary,Helmet
+Galaxy Emperor,Legendary,Helmet
+Golden Crown,Legendary,Helmet
+Golden Eye,Legendary,Helmet
+Hallow Commando,Legendary,Helmet
+Ice Domino,Legendary,Helmet
+Ice Valkyrie,Legendary,Helmet
+Icy Chain,Legendary,Helmet
+Jade Samurai,Legendary,Helmet
+Light Bulb,Legendary,Helmet
+Lightning Crown,Legendary,Helmet
+Magician Top Hat,Legendary,Helmet
+Mint Top Hat,Legendary,Helmet
+Silver Chain,Legendary,Helmet
+Summer Valkyrie,Legendary,Helmet
+Sun Crusader,Legendary,Helmet
+The Sun,Legendary,Helmet
+Valkyrie,Legendary,Helmet
+White Top Hat,Legendary,Helmet
+Pumpking,Legendary,Helmet
+Shockurai,Legendary,Helmet
+Holiday Hood,Legendary,Helmet
+Icy Antlers,Legendary,Helmet
+Toxic Horns,Legendary,Helmet
+Amare,Mythical,Helmet
+Aureus,Mythical,Helmet
+Aqua Warrior,Mythical,Helmet
+Black Shades,Mythical,Helmet
+Bling Chain,Mythical,Helmet
+Dark Guardian,Mythical,Helmet
+Eerie,Mythical,Helmet
+Electrica,Mythical,Helmet
+Empyreus,Mythical,Helmet
+Ferias,Mythical,Helmet
+Fiery Horns,Mythical,Helmet
+Frigidus,Mythical,Helmet
+Galaxy Warrior,Mythical,Helmet
+Ghosdeeri,Mythical,Helmet
+Golden Pan Helmet,Mythical,Helmet
+Golden Robot,Mythical,Helmet
+Lava Reactor,Mythical,Helmet
+Lord,Mythical,Helmet
+Malum,Mythical,Helmet
+Monstruosus,Mythical,Helmet
+Nebula Mecha,Mythical,Helmet
+Niveis,Mythical,Helmet
+Pink Sparkle Time,Mythical,Helmet
+Praefectus,Mythical,Helmet
+Sky Blue Sparkle Time,Mythical,Helmet
+Smaragdus,Mythical,Helmet
+Teal Sparkle Time,Mythical,Helmet
+Tenebris,Mythical,Helmet
+Turkey Head,Mythical,Helmet
+Vespertilio,Mythical,Helmet
+Vestibulum,Mythical,Helmet
+Viscount,Mythical,Helmet
+Viscountess,Mythical,Helmet
+Toxic Warlord,Mythical,Helmet
+Winged Static,Mythical,Helmet
+True Ice Warrior,Mythical,Helmet
+Poison Crusader,Mythical,Helmet
+Poison Warrior,Mythical,Helmet
+Morbus,Mythical,Helmet
+Toxicus,Mythical,Helmet
+Venenum,Mythical,Helmet
+Archduchess,Mythical,Helmet
+Arctic Commando,Mythical,Helmet
+Astra,Mythical,Helmet
+Baron,Mythical,Helmet
+Black Sparkle Time,Mythical,Helmet
+Caprice Bunny Ears,Mythical,Helmet
+Countess,Mythical,Helmet
+Dessert Domino,Mythical,Helmet
+Doomsekkar,Mythical,Helmet
+Duchess,Mythical,Helmet
+Duke,Mythical,Helmet
+Earl,Mythical,Helmet
+Galaxy Commando,Mythical,Helmet
+Infernus,Mythical,Helmet
+Lady,Mythical,Helmet
+Messor,Mythical,Helmet
+Orange Sparkle Time,Mythical,Helmet
+Rainbow Shaggy,Mythical,Helmet
+Red Sparkle Time,Mythical,Helmet
+Rex,Mythical,Helmet
+Spookyrie,Mythical,Helmet
+Summer Commando,Mythical,Helmet
+Warlock,Mythical,Helmet
+White Shades,Mythical,Helmet
+White Sparkle Time,Mythical,Helmet
+Toxic Valkyrie,Mythical,Helmet
+Shock Topper,Mythical,Helmet
+Ice Guards,Mythical,Helmet
+Poison Head,Mythical,Helmet
+Toxic Head,Mythical,Helmet
+Venom Head,Mythical,Helmet
+Aestas,Ultimate,Helmet
+Chronobonum,Ultimate,Helmet
+Dusekkar,Ultimate,Helmet
+Epic Dominus,Ultimate,Helmet
+Fusilia,Ultimate,Helmet
+Merrywrath,Ultimate,Helmet
+Mecha Domino,Ultimate,Helmet
+Thunder Bucket,Ultimate,Helmet
+Vernum,Ultimate,Helmet
+Water Wings,Ultimate,Helmet
+Evilsekkar,Ultimate,Helmet
+Bat Wings,Ultimate,Helmet
+Hallow Wings,Ultimate,Helmet
+Formidulosus,Ultimate,Helmet
+Epulari,Ultimate,Helmet
+Snowman Disguise,Ultimate,Helmet
+Plaga,Ultimate,Helmet
+Monolith Head,Ultimate,Helmet
+Aquatic Horns,Ultimate,Helmet
+Chrononoctis,Ultimate,Helmet
+Epic Federation,Ultimate,Helmet
+Headless,Ultimate,Helmet
+Limus,Ultimate,Helmet
+Magma Domino,Ultimate,Helmet
+Pascha,Ultimate,Helmet
+Grimsekkar,Ultimate,Helmet
+Grim Wings,Ultimate,Helmet
+Festum,Ultimate,Helmet
+Snow Globe,Ultimate,Helmet
+Bane,Ultimate,Helmet

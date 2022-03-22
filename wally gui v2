@@ -800,8 +800,8 @@ data.w:TweenPosition(pos, (library.toggled and 'Out' or 'In'), 'Quad', 0.15, tru
                 rebuild("")
             end
             self:Resize();
-            return {['Reload'] = reload;
-                    ['Box'] = box:FindFirstChild('Box');
+            return {Reload = reload,
+                    Box = box:FindFirstChild('Box')
                 }
         end
         

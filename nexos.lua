@@ -10,10 +10,10 @@ if not game:IsLoaded() then
 
         local Code = game:GetService'GuiService':GetErrorCode().Value
 
-        if Code >= Enum.ConnectionError.TeleportErrors.Value  then
-			game:GetService("TeleportService"):Teleport(game.PlaceId, game:GetService("Players").LocalPlayer)
+        --if Code >= Enum.ConnectionError.TeleportErrors.Value  then
+			--game:GetService("TeleportService"):Teleport(game.PlaceId, game:GetService("Players").LocalPlayer)
             -- return game:Shutdown()
-		elseif Code >= Enum.ConnectionError.DisconnectErrors.Value then
+		if Code >= Enum.ConnectionError.DisconnectErrors.Value and Code < Enum.ConnectionError.TeleportErrors.Value then
 			return game:Shutdown()
         end
     end)

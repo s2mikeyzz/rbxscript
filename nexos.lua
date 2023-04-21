@@ -13,7 +13,7 @@ if not game:IsLoaded() then
         if Code >= Enum.ConnectionError.TeleportErrors.Value  then
 			game:GetService("TeleportService"):Teleport(game.PlaceId, game:GetService("Players").LocalPlayer)
             -- return game:Shutdown()
-		elseif Code > Enum.ConnectionError.DisconnectErrors.Value then
+		elseif Code >= Enum.ConnectionError.DisconnectErrors.Value then
 			return game:Shutdown()
         end
     end)

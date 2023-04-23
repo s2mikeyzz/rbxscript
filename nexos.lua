@@ -1,7 +1,7 @@
 if Nexus then Nexus:Stop() end
 
 if not game:IsLoaded() then
-    task.delay(60, function()
+    task.delay(40, function()
         if NoShutdown then return end
 
         if not game:IsLoaded() then
@@ -13,7 +13,9 @@ if not game:IsLoaded() then
         --if Code >= Enum.ConnectionError.TeleportErrors.Value  then
 			--game:GetService("TeleportService"):Teleport(game.PlaceId, game:GetService("Players").LocalPlayer)
             -- return game:Shutdown()
-		if Code >= Enum.ConnectionError.DisconnectErrors.Value and Code < Enum.ConnectionError.TeleportErrors.Value then
+		if Code >= Enum.ConnectionError.TeleportErrors.Value then
+			game:GetService("TeleportService"):Teleport(game.PlaceId, game:GetService("Players").LocalPlayer)
+		elseif Code >= Enum.ConnectionError.DisconnectErrors.Value then
 			return game:Shutdown()
         end
     end)
